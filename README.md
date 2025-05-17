@@ -1,0 +1,1 @@
+A deep learning-based tumor detection project using Convolutional Neural Networks (CNNs). This notebook walks through data preprocessing, model architecture, training, and evaluation for classifying medical images as tumor or non-tumor. Ideal for medical image analysis and binary classification tasks.
